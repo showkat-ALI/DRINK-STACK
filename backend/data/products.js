@@ -1,0 +1,60 @@
+const products = [
+  {
+    img: "https://i.ibb.co/WkYB5Dv/PDP-Variety-Pack-v2-1600x.jpg",
+    Stock: 5,
+    headline: "Variety Pack",
+    subHead: "12x for $33",
+    price: 55,
+    plan: "Select your plan",
+  },
+
+  {
+    img: "https://i.ibb.co/2vK6ZM6/cactus-rose-1000x.webp",
+    Stock: 6,
+    headline: "Chai Cranberry",
+    subHead: "12x for $33",
+    price: 22,
+    plan: "Select your plan",
+  },
+  {
+    img: "https://i.ibb.co/x6nKMGW/Chai-2x-1-1000x.webp",
+    Stock: 3,
+    headline: "Ginger Meyer Lemon",
+    subHead: "12x for $33",
+    plan: "Select your plan",
+    price: 94,
+  },
+  {
+    img: "https://i.ibb.co/KNTmwhP/Ginger-Meyer-Lemon-19c4cccb-91e5-4a06-b3cd-95df29b49122-1000x.webp",
+    Stock: 9,
+    headline: "Earthling tote",
+    subHead: "12x for $33",
+    plan: "Select your plan",
+    price: 36,
+  },
+  {
+    img: "https://i.ibb.co/TTqr3Ry/Ginger-Meyer-Lemon-89bf34b6-2ae0-4793-a91a-2e223e953eb0-1000x.webp",
+    Stock: 11,
+    headline: "Aura Boranament",
+    subHead: "12x for $33",
+    plan: "Select your plan",
+    price: 13,
+  },
+  {
+    img: "https://i.ibb.co/gwZTtsq/lavender-cucumber-v2-1000x.webp    ",
+    Stock: 2,
+    headline: "Cactus Rose",
+    subHead: "12x for $33",
+    plan: "Select your plan",
+    price: 63,
+  },
+  {
+    img: "https://i.ibb.co/DpTkGTx/lemongrass-coconut-1000x.webp",
+    Stock: 2,
+    headline: "Peppermint Watermelon",
+    subHead: "12x for $33",
+    plan: "Select your plan",
+    price: 134,
+  },
+];
+module.exports = products;
